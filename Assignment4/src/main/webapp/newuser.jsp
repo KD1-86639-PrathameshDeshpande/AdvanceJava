@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Registration</title>
+</head>
+<body>
+<h1>New User Registration</h1>
+<form method="post" action="register.jsp">
+FirstName: <input type="text" name="fname" /><br/><br/>
+LastName: <input type="text" name="lname" /><br/><br/>
+Email: <input type="email" name="email" /><br/><br/>
+Password: <input type="password" name="pass" /><br/><br/>
+DOB: <input type="date" name="dob" /><br/><br/>
+<input type="submit" name="Submit" /><br/><br/>
+</form>
+
+</body>
+</html>
