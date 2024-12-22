@@ -8,8 +8,8 @@
 		<property name="hibernate.connection.autocommit">false</property>
 		<property name="hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property>
 		<property name="hibernate.connection.url">jdbc:mysql://localhost:3306/hibernate_demo?createDatabaseIfNotExist=true&amp;useSSL=false&amp;allowPublicKeyRetrieval=true</property>
-		<property name="hibernate.connection.password">Abhi12</property>
-		<property name="hibernate.connection.username">KD1_Abhijeet_86738</property>
+		<property name="hibernate.connection.password">Prathamesh123</property>
+		<property name="hibernate.connection.username">KD1-86639-Prathamesh</property>
 		<property name="hibernate.dialect">org.hibernate.dialect.MySQL8Dialect</property>
 		<property name="hibernate.current_session_context_class">thread</property>
 		<property name="hibernate.connection.pool_size">10</property>
